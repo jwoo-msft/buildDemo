@@ -1,0 +1,12 @@
+PODS:
+  - AdaptiveCards (1.0.1)
+
+DEPENDENCIES:
+  - AdaptiveCards
+
+SPEC CHECKSUMS:
+  AdaptiveCards: 64b76a8df01e6ba8dbfa554fa1378588ffe28a02
+
+PODFILE CHECKSUM: e9e73bb607ba9ff3ea63864daa804e28088eb7ed
+
+COCOAPODS: 1.4.0

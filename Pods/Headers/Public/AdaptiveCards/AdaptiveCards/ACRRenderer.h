@@ -1,0 +1,1 @@
+../../../../AdaptiveCards/AdaptiveCards.framework/Headers/ACRRenderer.h
